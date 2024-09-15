@@ -1,0 +1,31 @@
+{
+    "id": "/",
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Webboard",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "/",
+    "short_name": "Webboard",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "display_override": [
+        "window-controls-overlay"
+    ],
+    "screenshots": [
+        {
+            "src": "assets/screen.png"
+        },
+        {
+            "src": "assets/screen.png"
+        },
+        {
+            "src": "assets/screen.png"
+        }
+    ],
+    "launch_handler": {
+        "client_mode": "navigate-existing"
+    },
+    "edge_side_panel": {}
+}
