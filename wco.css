@@ -219,7 +219,7 @@ li:has(> a.current-video) {
 }
 
 .topb h1 {
-	color: unset;
+	color: initial;
 }
 
 .searchboxtop select {
