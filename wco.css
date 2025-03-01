@@ -226,6 +226,6 @@ li:has(> a.current-video) {
 	color: #3a3a5f
 }
 
-.jw-captions.jw-captions-enabled {
-	outline: unset;
+:focus-visible {
+    outline: unset;
 }
